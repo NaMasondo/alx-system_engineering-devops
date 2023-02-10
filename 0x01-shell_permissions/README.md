@@ -10,3 +10,4 @@
 9-John_Doe, set file mode to 753
 10-mirror_permissions, mirror another files permissions
 11-directories_permissions, adds permissions to all subdirectories only, in current directory
+12-directory_permissions, creates a directory with specified permissions 
