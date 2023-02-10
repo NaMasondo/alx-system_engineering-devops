@@ -9,3 +9,4 @@
 8-James_Bond, no permission for user and group, all permission for others
 9-John_Doe, set file mode to 753
 10-mirror_permissions, mirror another files permissions
+11-directories_permissions, adds permissions to all subdirectories only, in current directory
