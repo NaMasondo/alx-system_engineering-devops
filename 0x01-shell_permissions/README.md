@@ -7,3 +7,4 @@
 6-multiple_permissions, add multiple permissions to hello file
 7-everybody, add execution permision to everybody
 8-James_Bond, no permission for user and group, all permission for others
+9-John_Doe, set file mode to 753
