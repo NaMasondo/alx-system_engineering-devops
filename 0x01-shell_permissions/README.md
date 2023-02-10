@@ -5,3 +5,4 @@
 4-empty, creates empty file called hello
 5-execute, change files execute permission
 6-multiple_permissions, add multiple permissions to hello file
+7-everybody, add execution permision to everybody
