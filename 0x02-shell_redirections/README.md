@@ -6,4 +6,6 @@
 5-firstlines, displays the first 10 lines of /etc/passwd
 6-third_line, displays the third line of the file iact
 7-file, creates a file name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
-8-cwd_state,  writes the result of command ls -la into file ls_cwd_content 
+8-cwd_state,  writes the result of command ls -la into file ls_cwd_content
+9-duplicate_last_line, script that duplicates the last line of the file iacta
+
