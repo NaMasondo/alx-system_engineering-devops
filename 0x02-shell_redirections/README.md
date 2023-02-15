@@ -12,7 +12,7 @@
 11-directories, Script counts the number of directories and sub-directories in the current directory
 12-newest_files, script that displays the 10 newest files in the current directory
 13-unique, script that takes a list of words as input and prints only words that appear exactly once
-
+14-findthatword, displays lines containing pattern "root" from the file /etc/passwd
 
 
 
