@@ -1,2 +1,2 @@
 #!/bin/bash
-head -2 testfile | tail +2
+head -5 testfile | tail +5 | echo >> iacta
